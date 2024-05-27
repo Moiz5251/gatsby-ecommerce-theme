@@ -51,6 +51,9 @@ const AboutPage = (props) => {
             <p>
               Founded in 1860, Sydney is an innovative British brand with a
               contemporary edge. We make timeless everyday luxury clothing.
+                Founded in 1860, Sydney is an innovative British brand with a
+              contemporary edge. We make timeless everyday luxury clothing.
+                
             </p>
             <br />
             <br />
